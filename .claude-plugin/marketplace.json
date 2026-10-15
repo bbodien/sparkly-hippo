@@ -1,0 +1,13 @@
+{
+  "name": "sparkly-hippo",
+  "description": "Sparkly Hippo, a Claude Code mod: a hippo who flies above the prompt trailing glitter.",
+  "owner": {
+    "name": "Ben Bodien"
+  },
+  "plugins": [
+    {
+      "name": "sparkly-hippo",
+      "source": "./"
+    }
+  ]
+}

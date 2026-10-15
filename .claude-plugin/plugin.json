@@ -1,0 +1,9 @@
+{
+  "name": "sparkly-hippo",
+  "version": "0.1.0",
+  "description": "Sparkly Hippo flies above the prompt, trailing glitter while Claude works and resting while it is idle.",
+  "author": { "name": "Ben Bodien" },
+  "license": "MIT",
+  "repository": "https://github.com/bbodien/sparkly-hippo",
+  "types": "./types/index.d.ts"
+}
